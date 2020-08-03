@@ -12,8 +12,6 @@
 
 # 📫 How to reach me?
 
-- 🔭 I’m currently working at Persistent Systems Ltd.
-
 - 📫 Email **dhananjay_sisode@hotmail.com**
 
 - 💬 Ask me about Golang, Python, Angular and Docker
