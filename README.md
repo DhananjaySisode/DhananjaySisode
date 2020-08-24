@@ -1,6 +1,6 @@
 <h1 align="center">Hello World 👋, I'm Dhananjay Sisode</h1>
 <h3 align="center">A passionate Golang and UI Developer from India</h3>
-<h3 align="center">I :heart: open source!</h3>
+#<h3 align="center">I :heart: open source!</h3>
 
 
   
