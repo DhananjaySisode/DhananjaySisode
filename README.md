@@ -1,7 +1,5 @@
 <h1 align="center">Hello World 👋, I'm Dhananjay Sisode</h1>
 <h3 align="center">A passionate Golang and UI Developer from India</h3>
-#<h3 align="center">I :heart: open source!</h3>
-
 
   
 
@@ -14,7 +12,7 @@
 
 - 📫 Email **dhananjay_sisode@hotmail.com**
 
-- 💬 Ask me about Golang, Python, Angular and Docker
+- 💬 Ask me about Golang, C#, Python, Angular and Docker
 
  <p float="centre">
 <a href="https://twitter.com/DhananjaySisode" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="DhananjaySisode" height="30" width="30" /></a>
