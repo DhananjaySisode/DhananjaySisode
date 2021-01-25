@@ -12,7 +12,7 @@
 
 - 📫 Email **dhananjay_sisode@hotmail.com**
 
-- 💬 Ask me about Golang, C#, Python, Angular and JavaScript.
+- 💬 Ask me about ReactJS, React Native, Golang, C#, Python, Angular and JavaScript.
 
  <p float="centre">
 <a href="https://twitter.com/DhananjaySisode" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="DhananjaySisode" height="30" width="30" /></a>
