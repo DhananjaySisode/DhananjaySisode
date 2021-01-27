@@ -6,7 +6,7 @@
 <p align="center">
   <img src="https://github.com/DhananjaySisode/DhananjaySisode/blob/master/assets/golang.gif"  height="120" />
   <img src="https://github.com/DhananjaySisode/DhananjaySisode/blob/master/assets/reactjs.gif"  height="120" />
-  <img src="https://github.com/DhananjaySisode/DhananjaySisode/blob/master/assets/python.gif"  height="120" />
+<!--  <img src="https://github.com/DhananjaySisode/DhananjaySisode/blob/master/assets/python.gif"  height="120" /> -->
   <img src="https://github.com/DhananjaySisode/DhananjaySisode/blob/master/assets/nodejs.gif"  height="120" />
 </p>
 
