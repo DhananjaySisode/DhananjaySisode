@@ -24,9 +24,11 @@
 <a href="https://www.instagram.com/dhananjaysisode/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="dhananjaysisode" height="30" width="30" /></a>
 </p>
 
-![Dhananjay's github stats](https://github-readme-stats.vercel.app/api?username=dhananjaysisode&show_icons=true)
+![Dhananjay's github stats](https://github-readme-stats.vercel.app/api?username=dhananjaysisode&show_icons=true&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhananjaysisode&layout=compact)](https://github.com/dhananjaysisode)
 
 
+<p><img src="https://komarev.com/ghpvc/?username=dhananjaysisode" alt="counter" /></p>
 <!--
 **DhananjaySisode/DhananjaySisode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
