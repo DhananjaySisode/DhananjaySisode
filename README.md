@@ -4,9 +4,7 @@
   
 
 <p align="center">
-  <img src="https://github.com/DhananjaySisode/DhananjaySisode/blob/master/assets/golang.gif"  height="120" />
   <img src="https://github.com/DhananjaySisode/DhananjaySisode/blob/master/assets/reactjs.gif"  height="120" />
-<!--  <img src="https://github.com/DhananjaySisode/DhananjaySisode/blob/master/assets/python.gif"  height="120" /> -->
   <img src="https://github.com/DhananjaySisode/DhananjaySisode/blob/master/assets/nodejs.gif"  height="120" />
 </p>
 
@@ -15,7 +13,7 @@
 
 - 📫 Email **dhananjay_sisode@hotmail.com**
 - ⚡ Portfolio **<a href="http://dhananjaysisode.netlify.com/" target="blank">http://dhananjaysisode.netlify.com/</a>**
-- 💬 Ask me about ReactJS, React Native, Golang, C#, Python, NodeJS, Angular and JavaScript.
+- 💬 Ask me about ReactJS, NextJs, React Native, NodeJS, JavaScript.
 
  <p float="centre">
 <a href="https://twitter.com/DhananjaySisode" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="DhananjaySisode" height="30" width="30" /></a>
